@@ -5,3 +5,7 @@ Visualize the behavior of light and other objects in the solar system following 
 
 ![Screenshot (960)](https://user-images.githubusercontent.com/37753430/72989829-a6cbc080-3db4-11ea-9ca7-f453d32a6918.png)
 
+
+![Screenshot (919)](https://user-images.githubusercontent.com/37753430/72989876-bf3bdb00-3db4-11ea-8412-309143ed2c0e.png)
+
+
